@@ -2,3 +2,5 @@ altair
 pandas
 streamlit
 mag4
+matplotlip.pyplot
+bokeh == 2.4.3
