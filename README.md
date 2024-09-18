@@ -17,3 +17,4 @@ A simple Streamlit app that draws a spiral.
    ```
    $ streamlit run streamlit_app.py
    ```
+:blush:
